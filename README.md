@@ -2,7 +2,6 @@
 
 
 ###
-Sou estagiária do Apoio Tecnológico Educacional 👩🏼‍💻
 
 Curso Análise e Desenvolvimento de Sistemas (UNILAVRAS)👩🏼‍🎓
 
